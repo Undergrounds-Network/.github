@@ -1,9 +1,9 @@
 ## Hi there 👋
-This is the official github of the Undergrounds Team
-Here you can find:
-Our Minecraft Server
-Our Website
-More coming Soon !!
+This is the official github of the Undergrounds Team   
+Here you can find:   
+Our Minecraft Server   
+Our Website   
+More coming Soon !!   
 <!--
 
 **Here are some ideas to get you started:**
