@@ -1,4 +1,4 @@
-## Hi there 👋
+## Undergrounds Team   
 This is the official github of the Undergrounds Team   
 Here you can find:   
 Our Minecraft Server   
