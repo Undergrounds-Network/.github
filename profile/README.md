@@ -3,7 +3,6 @@ This is the official Github page of the Undergrounds Team
 Here you can find:   
 Our Minecraft Server   
 Our Website   
-More coming Soon !!   
 ***Join us on discord:***
 https://discord.gg/k3kevJsr69
 <!--
