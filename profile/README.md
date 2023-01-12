@@ -4,7 +4,7 @@ Here you can find:
 Our Minecraft Server   
 Our Website   
 More coming Soon !!   
-###Join us on discord:
+***Join us on discord:***
 https://discord.gg/k3kevJsr69
 <!--
 
