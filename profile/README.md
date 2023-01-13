@@ -1,19 +1,5 @@
 # Undergrounds Team   
 This is the official Github page of the Undergrounds Team   
-We are coders,gamers,invisioneers, but most importantly...            
-A passionate Team          
-Here you can find:   
-Our Minecraft Server   
-Our Website   
-***Join us on discord:***
-https://discord.gg/k3kevJsr69
-<!--
+        Discord: https://discord.gg/k3kevJsr69   
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
