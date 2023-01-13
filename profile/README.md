@@ -1,7 +1,7 @@
 # Undergrounds Team   
 This is the official Github page of the Undergrounds Team   
-We are coders,gamers,invisioneers, but most importantly...
-A passionate Team
+We are coders,gamers,invisioneers, but most importantly...            
+A passionate Team          
 Here you can find:   
 Our Minecraft Server   
 Our Website   
